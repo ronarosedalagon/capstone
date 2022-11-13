@@ -1,0 +1,142 @@
+h5{
+    font-size:0.5rem; 
+}
+.btn-action{
+    width:10%;
+}
+
+table{
+    border:black;
+    border-width: thick;
+}
+th{
+    background-color: #00568F;
+    color:white;
+    font-weight: bolder;
+    font-size:10px;
+}
+thead{
+    font-size:10px;
+}
+
+.information_announcement_post-box{
+    padding:0 40px;
+}
+
+.card-title{
+    font-weight: bolder;
+    color:#fd7548;
+}
+
+.entry-title{
+    color: #2ba6cb;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.2rem;
+    font-family: Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+}
+.entry-timestamp{
+    color:gray;
+    font-weight: 400;
+}
+.entry-details{
+    font-weight:500;
+    font-size: 0.9rem;
+}
+
+.entry-content{
+    font-size: 0.7rem;
+    text-align: justify;
+}
+
+.information_announcement_row1 {
+    padding:15px 0;
+    border: solid gray 1px;
+    border-radius: 5px;
+    margin-top: 1%;
+}
+
+.information_announcement_archives a{
+    color: #2ba6cb;
+}
+
+/* start */
+.publication{
+    padding:0 20px;
+}
+.scholarship{
+    padding:10px 20px;
+}
+.publication-inside-box{
+    padding-bottom: 20px;
+}
+.image-wrap {
+    width: 300px;
+    height: 180px;
+    overflow: hidden;
+}
+.image-wrap img {
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+    object-position: top center;
+    transition: all 1s ease-in-out;
+}
+.image-wrap:hover img {
+    object-position: bottom center;
+}
+
+#link_button-557-74 {
+    background-color: #00568F;
+    border: 1px solid #00568F;
+    border-radius: 0.5em;
+    color: white;
+    padding: 4px 50px;
+    font-size: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+#publication-headline {
+    font-size: 1rem;
+    max-width: 300px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #373435;
+}
+
+.form-group{
+    padding: 5px 0;
+}
+
+.information_organization_row {
+    padding:15px 0;
+    border: solid gray 1px;
+    border-radius: 5px;
+    margin-top: 1%;
+}
+
+.file-btn{
+    margin: 1.5% 0 0 1%;
+}
+
+.prompt-txt{
+    color:#2ba6cb;
+}
+
+#user_ID{
+    background-color: rgb(241, 241, 241);
+    padding:20px;
+}
+
+#user_IDsearch{
+    padding:20px;
+}
+
+#input_text_trigger {
+    background-color: #f2f2f2;
+    color: black;
+    border:none;
+      
+}

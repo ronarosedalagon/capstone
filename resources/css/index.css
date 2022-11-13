@@ -1,0 +1,98 @@
+body{
+    background-color: white
+}
+#school_logo{
+    width:40px;
+    height: 40px;
+    margin-right: 10px;
+}
+#header-photo{
+    position: sticky;
+}
+
+.nav{
+    color: black;
+}
+
+.nav a{
+    color:black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.nav a:hover{
+    color:#f8ce17;
+    
+}
+.nav a:active {
+    color: yellow;
+}
+
+.nav_title h1{
+    font-size: 40px;
+}
+.nav-box{
+    margin-top: -5%;
+    position: relative;
+}
+.selection{
+    padding-left: 25px;
+}
+
+.content_box{
+    font-size: 10px;
+    width:60%;
+    margin:3% 0 3% 20%;
+    text-align: justify;
+
+}
+.content_box_bot{
+    font-size: 10px;
+    width:60%;
+    margin:3% 0 0 20%;
+    text-align: justify;
+
+}
+.contact_title{
+    text-align: center;
+    padding:10px;
+
+}
+.contact_box{
+    padding:50px;
+    margin: 0 0 3% 26%;
+}
+.contact_box h5{
+    font-size: 14px;
+    font-weight: 900;
+    letter-spacing: 1.56px;
+    line-height: 19px;
+}
+.contact_box h2{
+    font-size: 26px;
+    font-weight: 900;
+    letter-spacing: -0.16px;
+    line-height: 36px;
+}
+h6{
+    font-weight: light;
+}
+
+.publication{
+    margin: 1% 0 0 15%;
+}
+.title{
+    text-align: center;
+    margin-top: 2%;
+}
+.user-announcements{
+    margin-top:-5%;
+}
+footer{
+    background-color: black;
+    color: #999;
+}
+
+
+
+
